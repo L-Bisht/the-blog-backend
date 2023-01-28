@@ -1,5 +1,0 @@
-includes:
-  - prod-env.yaml
-env_variables:
-  MONGO_USERNAME: mariab
-  MONGO_PASSWORD: aKxQxkk6kjtWYW89
